@@ -1,4 +1,4 @@
-package me.sakuratao.securityalert.Utils;
+package me.sakuratao.securityalert.utils;
 
 import me.sakuratao.securityalert.SecurityAlert;
 import org.bukkit.Bukkit;

@@ -2,7 +2,7 @@ package me.sakuratao.securityalert.listener;
 
 import litebans.api.Database;
 import me.sakuratao.securityalert.SecurityAlert;
-import me.sakuratao.securityalert.Utils.TaskUtils;
+import me.sakuratao.securityalert.utils.TaskUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
