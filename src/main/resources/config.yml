@@ -1,0 +1,8 @@
+# 不匹配原因?
+NO_REASON: true
+
+# 匹配被封禁原因
+REASON: "使用第三方软件破坏游戏平衡"
+
+# 封禁命令
+BAN_COMMAND: "banip %player% 30d 账号安全"

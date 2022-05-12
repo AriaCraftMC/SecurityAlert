@@ -1,0 +1,7 @@
+name: SecurityAlert
+version: '${project.version}'
+main: me.sakuratao.securityalert.SecurityAlert
+api-version: 1.18
+authors: [ SakuraTao ]
+depend:
+  - LiteBans
